@@ -31,7 +31,7 @@ located in a subfolder called `tenv`:
     tenv\Scripts\activate
     ```
 
-Install the project using using an [editable installation](https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs).
+Install the project using an [editable installation](https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs).
 
     pip install -e .
     pip install -r requirements-dev.txt
